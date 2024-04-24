@@ -1,7 +1,7 @@
 # README Generator
   ## Description
 
-  To make an app that quickly generates a readme file
+  To quickly make a README template with user inputs
  
   
   ## Table of Contents
@@ -18,12 +18,12 @@
   
   
   ## Usage
-  install and type
+  TO do stuff and then type stuff
   
     
   
   ## Contributing
-  dan
+  Daniel Harrison
   
   
   ## Tests
